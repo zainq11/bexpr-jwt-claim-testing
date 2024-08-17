@@ -1,3 +1,8 @@
+To run this:
+```bash
+go run main.go
+```
+
 Change the `sub` value to make it fail:
 
 ```go
